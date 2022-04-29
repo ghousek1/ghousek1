@@ -97,7 +97,7 @@
 [email]:mailto:ghousek1@outlook.com
 [website]:https://about.me/ghousek1
 [linkedin]:https://linkedin.com/in/ghousek1
-[twitter]:https://twitter.com/ghousek1
+[twitter]:https://twitter.com/ghousek1real
 [reddit]:https://reddit.com/u/ghousek1
 [devto]:https://dev.to/ghousek1
 [github]:https://github.com/ghousek1?tab=repositories

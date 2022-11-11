@@ -5,7 +5,7 @@
 - :computer: I’m currently working on [Personal projects (public & private)][gitprojects]
 - :blue_book: I’m currently learning BlockChain Technology
 - :bulb: I’m looking to collaborate with other content creators
-- :dart: 2021 Goals: Contribute more to Open source projects & Build personal projects
+- :dart: 2023 Goals: Contribute more to Open source projects & Build personal projects
 - ⚡ Fun fact: I love to cook and play video games
  
 ### Connect with me:
@@ -16,7 +16,6 @@
 [<img align="left" src="./assets/icons/linkedin.png" height="40" width="40" />][linkedin] 
 [<img align="left" src="./assets/icons/twitter.png" height="40" width="40" />][twitter]
 [<img align="left" src="./assets/icons/devto.png" height="40" width="40" />][devto]
-[<img align="left" src="./assets/icons/reddit.png" height="40" width="40" />][reddit]
 
 </div>
 
@@ -71,7 +70,9 @@
 
 </div>
 
-#### Tools
+<br>
+
+#### Tools:
 <div class="tools" align="center">
  
  [<img align="left" src="./assets/icons/git.png" height="40" width="40" />][gitprojects]
@@ -100,7 +101,7 @@
  </div>
 
 [email]:mailto:ghousek1@outlook.com
-[website]:https://about.me/ghousek1
+[website]:https://ghousek1.com
 [linkedin]:https://linkedin.com/in/ghousek1
 [twitter]:https://twitter.com/ghousek1ofcl
 [reddit]:https://reddit.com/u/ghousek1

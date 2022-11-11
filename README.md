@@ -29,7 +29,7 @@
 <div class="languages" align="center" style="background-color:red">
 
  [<img align="left" src="./assets/icons/java.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/cpp.png" height="40" width="40" />][gitprojects]
+ [<img align="left" src="./assets/icons/golang.png" height="40" width="40" />][gitprojects]
 
 </div>
 <br>
@@ -49,7 +49,7 @@
  [<img align="left" src="./assets/icons/html.png" height="40" width="40" />][gitprojects]
  [<img align="left" src="./assets/icons/css.png" height="40" width="40" />][gitprojects]
  [<img align="left" src="./assets/icons/javascript.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/angular.png" height="40" width="40" />][gitprojects]
+ [<img align="left" src="./assets/icons/reactjs.png" height="40" width="40" />][gitprojects]
 
 </div>
 <br>
@@ -60,10 +60,16 @@
  [<img align="left" src="./assets/icons/sql.png" height="40" width="40" />][gitprojects]
  [<img align="left" src="./assets/icons/mysql.png" height="40" width="40" />][gitprojects]
  [<img align="left" src="./assets/icons/mongodb.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/graphql.png" height="40" width="40" />][gitprojects]
 
 </div>
 <br>
+
+#### Misc:
+<div class="misc" align="center">
+
+ [<img align="left" src="./assets/icons/graphql.png" height="40" width="40" />][gitprojects]
+
+</div>
 
 #### Tools
 <div class="tools" align="center">
@@ -72,7 +78,6 @@
  [<img align="left" src="./assets/icons/terminal.png" height="40" width="40" />][gitprojects]
  [<img align="left" src="./assets/icons/docker.png" height="40" width="40" />][gitprojects]
  [<img align="left" src="./assets/icons/kubernetes.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/npm.png" height="40" width="40" />][gitprojects]
 </div>
 <br>
 <br>
@@ -97,7 +102,7 @@
 [email]:mailto:ghousek1@outlook.com
 [website]:https://about.me/ghousek1
 [linkedin]:https://linkedin.com/in/ghousek1
-[twitter]:https://twitter.com/ghousek1real
+[twitter]:https://twitter.com/ghousek1ofcl
 [reddit]:https://reddit.com/u/ghousek1
 [devto]:https://dev.to/ghousek1
 [github]:https://github.com/ghousek1?tab=repositories

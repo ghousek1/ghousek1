@@ -3,7 +3,7 @@
 ## Computer Science Grad, Full Stack developer(Java, Spring framework), Competitive programmer!
 
 - :computer: I’m currently working on [Personal projects (public & private)][gitprojects]
-- :blue_book: I’m currently learning BlockChain Technology
+- :blue_book: I’m currently focus on system design principles
 - :bulb: I’m looking to collaborate with other content creators
 - :dart: 2023 Goals: Contribute more to Open source projects & Build personal projects
 - ⚡ Fun fact: I love to cook and play video games

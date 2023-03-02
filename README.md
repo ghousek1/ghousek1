@@ -1,6 +1,6 @@
 ### Ahoy, I'm Ghouse - aka [GhouseK1][website] 
 
-## Computer Science Grad, Backend developer, Competitive programmer!
+## Backend Engineer, CS Grad
 
 - :computer: I’m currently working on [Personal projects (public & private)][gitprojects]
 - :blue_book:  I’m currently focusing on improving the performance & scalability of backend apps
@@ -24,49 +24,49 @@
 
 ### Skills:
 
-#### Languages:
+##### Languages:
 <div class="languages" align="center" style="background-color:red">
 
- [<img align="left" src="./assets/icons/java.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/golang.png" height="40" width="40" />][gitprojects]
+ <img align="left" src="./assets/icons/java.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/golang.png" height="40" width="40" />
 
 </div>
 <br>
 
-#### Backend:
+##### Backend:
 <div class="backend" align="center">
  
-[<img align="left" src="./assets/icons/spring.png" height="40" width="40" />][gitprojects]
-[<img align="left" src="./assets/icons/nodejs.png" height="40" width="40" />][gitprojects]
+<img align="left" src="./assets/icons/spring.png" height="40" width="40" />
+<img align="left" src="./assets/icons/nodejs.png" height="40" width="40" />
 
 </div>
 <br>
 
-#### Frontend:
+##### Frontend:
 <div class="frontend" align="center">
  
- [<img align="left" src="./assets/icons/html.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/css.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/javascript.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/reactjs.png" height="40" width="40" />][gitprojects]
+ <img align="left" src="./assets/icons/html.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/css.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/javascript.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/reactjs.png" height="40" width="40" />
 
 </div>
 <br>
 
-#### Database:
+##### Database:
 <div class="database" align="center">
 
- [<img align="left" src="./assets/icons/sql.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/mysql.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/mongodb.png" height="40" width="40" />][gitprojects]
+ <img align="left" src="./assets/icons/sql.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/mysql.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/mongodb.png" height="40" width="40" />
 
 </div>
 <br>
 
-#### Misc:
+##### Misc:
 <div class="misc" align="center">
 
- [<img align="left" src="./assets/icons/graphql.png" height="40" width="40" />][gitprojects]
+ <img align="left" src="./assets/icons/graphql.png" height="40" width="40" />
 
 </div>
 
@@ -75,23 +75,29 @@
 #### Tools:
 <div class="tools" align="center">
  
- [<img align="left" src="./assets/icons/git.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/terminal.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/docker.png" height="40" width="40" />][gitprojects]
- [<img align="left" src="./assets/icons/kubernetes.png" height="40" width="40" />][gitprojects]
+ <img align="left" src="./assets/icons/git.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/terminal.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/docker.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/kubernetes.png" height="40" width="40" />
 </div>
+<br>
+<br>
+
+### Open-source contributions
+<br>
+<br>
+<br>
+<br>
+
+### Personal Projects
+<br>
+<br>
 <br>
 <br>
 
 ### Github Stats 
 
  <div id="stats" width="100%" style="display: flex; align:center;">
-
-  <div width="100%" align="center" style="flex: 1;">
-   
-   [<img src="http://github-readme-streak-stats.herokuapp.com?user=ghousek1&theme=highcontrast&hide_border=true&fire=DD0000&ring=DD0000&currStreakLabel=DD0000">][github]
-  
-  </div>
   <div width="100%" align="center" style="flex: 1;">
    
    [<img src="https://github-readme-stats.vercel.app/api?username=ghousek1&theme=highcontrast&show_icons=true&hide_border=true">][github]

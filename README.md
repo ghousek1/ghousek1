@@ -84,9 +84,9 @@
 
 ### Open-source contributions
 <div class="opensource-contributions" width="100%" style="display: flex; align:left;">
- <div class="meilisearch-contributions" width="100%" align="center" style="flex: 1;">
+ <div class="meilisearch-contributions" width="100%" style="flex: 1;">
   Code contributed to melisearch(alt to elastic search)
-  [<img src="./assets/icons/meilisearch.png" height="60" width="60"/>][meilisearch]
+  [<img style="display:block;" src="./assets/icons/meilisearch.png" height="60" width="60"/>][meilisearch]
  </div>
 </div>
 <br>

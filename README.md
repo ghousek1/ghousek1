@@ -30,15 +30,15 @@
 <td width="50%">
 <h3 align="left">Languages: </h3>
 <div class="languages" align="left">
- <img  src="./assets/icons/java.png" style=" height:2.5rem; width:2.5rem;" />
- <img  src="./assets/icons/golang.png" style=" height:2.5rem; width:2.5rem;" />
+ <img  src="./assets/icons/java.png" style=" height:3rem; width:3rem;" />
+ <img  src="./assets/icons/golang.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
 <h3 align="left">Backend: </h3>
 <div class="backend" align="left">
-<img src="./assets/icons/spring.png" style=" height:2.5rem; width:2.5rem;" />
-<img src="./assets/icons/go-fiber.png" style=" height:2.5rem; width:4rem;" />
+<img src="./assets/icons/spring.png" style=" height:3rem; width:3rem;" />
+<img src="./assets/icons/go-fiber.png" style=" height:3rem; width:4rem;" />
 </div>
 </td>
 </tr> 
@@ -46,17 +46,17 @@
 <td width="50%">
 <h3 align="left">Frontend: </h3>
 <div class="frontend" align="left">
- <img src="./assets/icons/html.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/css.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/javascript.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/reactjs.png" style=" height:2.5rem; width:2.5rem;" />
+ <img src="./assets/icons/html.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/css.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/javascript.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/reactjs.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
 <h3 align="left">Database:</h3>
 <div class="database" align="left">
- <img src="./assets/icons/postgresql.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/mongodb.png" style=" height:2.5rem; width:2.5rem;" />
+ <img src="./assets/icons/postgresql.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/mongodb.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 </tr>  
@@ -64,19 +64,19 @@
 <td width="50%">
 <h3 align="left">Frontend: </h3>
 <div class="misc-backend" align="left">
- <img src="./assets/icons/redis.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/kafka.png" style=" height:3.5rem; width:2.5rem;" />
- <img src="./assets/icons/meilisearch.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/graphql.png" style=" height:2.5rem; width:2.5rem;" />
+ <img src="./assets/icons/redis.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/kafka.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/meilisearch.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/graphql.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
 <h3 align="left">Database:</h3>
 <div class="tools" align="left">
- <img src="./assets/icons/terminal.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/git.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/docker.png" style=" height:2.5rem; width:2.5rem;" />
- <img src="./assets/icons/kubernetes.png" style=" height:2.5rem; width:2.5rem;" />
+ <img src="./assets/icons/terminal.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/git.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/docker.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/kubernetes.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 </tr>                                                               

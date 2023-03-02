@@ -29,14 +29,14 @@
 <tr>
 <td width="50%">
 <h3 align="left">Languages: </h3>
-<div class="languages" align="center">
+<div class="languages" align="left">
  <img align="left" src="./assets/icons/java.png" height="40" width="40" />
  <img align="left" src="./assets/icons/golang.png" height="40" width="40" />
 </div>
 </td>
 <td width="50%">
 <h3 align="left">Backend: </h3>
-<div class="backend" align="center">
+<div class="backend" align="left">
 <img align="left" src="./assets/icons/spring.png" height="40" width="40" />
 <img align="left" src="./assets/icons/go-fiber.png" height="40" width="40" />
 </div>
@@ -45,7 +45,7 @@
 <tr>
 <td width="50%">
 <h3 align="left">Frontend: </h3>
-<div class="frontend" align="center">
+<div class="frontend" align="left">
  <img align="left" src="./assets/icons/html.png" height="40" width="40" />
  <img align="left" src="./assets/icons/css.png" height="40" width="40" />
  <img align="left" src="./assets/icons/javascript.png" height="40" width="40" />
@@ -54,7 +54,7 @@
 </td>
 <td width="50%">
 <h3 align="left">Database:</h3>
-<div class="database" align="center">
+<div class="database" align="left">
  <img align="left" src="./assets/icons/postgresql.png" height="40" width="40" />
  <img align="left" src="./assets/icons/mongodb.png" height="40" width="40" />
 </div>
@@ -63,7 +63,7 @@
 <tr>
 <td width="50%">
 <h3 align="left">Frontend: </h3>
-<div class="misc-backend" align="center">
+<div class="misc-backend" align="left">
  <img align="left" src="./assets/icons/redis.png" height="40" width="40" />
  <img align="left" src="./assets/icons/kafka.png" height="40" width="40" />
  <img align="left" src="./assets/icons/meilisearch.png" height="40" width="40" />
@@ -72,7 +72,7 @@
 </td>
 <td width="50%">
 <h3 align="left">Database:</h3>
-<div class="tools" align="center">
+<div class="tools" align="left">
  <img align="left" src="./assets/icons/terminal.png" height="40" width="40" />
  <img align="left" src="./assets/icons/git.png" height="40" width="40" />
  <img align="left" src="./assets/icons/docker.png" height="40" width="40" />

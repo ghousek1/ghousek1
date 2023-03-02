@@ -23,64 +23,64 @@
 <br>
 <br>
 
-### Skills:
-
-##### Languages:
-
+### Skills
+<div align="left" style="">
+<table>
+<tr>
+<td width="50%">
+<h3 align="left">Languages: </h3>
 <div class="languages" align="center">
-
  <img align="left" src="./assets/icons/java.png" height="40" width="40" />
  <img align="left" src="./assets/icons/golang.png" height="40" width="40" />
-
 </div>
-<br>
-
-##### Backend:
-
+</td>
+<td width="50%">
+<h3 align="left">Backend: </h3>
 <div class="backend" align="center">
 <img align="left" src="./assets/icons/spring.png" height="40" width="40" />
 <img align="left" src="./assets/icons/go-fiber.png" height="40" width="40" />
 </div>
-<br>
-
-##### Frontend:
-
+</td>
+</tr> 
+<tr>
+<td width="50%">
+<h3 align="left">Frontend: </h3>
 <div class="frontend" align="center">
  <img align="left" src="./assets/icons/html.png" height="40" width="40" />
  <img align="left" src="./assets/icons/css.png" height="40" width="40" />
  <img align="left" src="./assets/icons/javascript.png" height="40" width="40" />
  <img align="left" src="./assets/icons/reactjs.png" height="40" width="40" />
 </div>
-<br>
-
-##### Database:
-
+</td>
+<td width="50%">
+<h3 align="left">Database:</h3>
 <div class="database" align="center">
  <img align="left" src="./assets/icons/postgresql.png" height="40" width="40" />
  <img align="left" src="./assets/icons/mongodb.png" height="40" width="40" />
 </div>
-<br>
-
-##### Misc Backend:
-
-<div class="misc" align="center">
+</td>
+</tr>  
+<tr>
+<td width="50%">
+<h3 align="left">Frontend: </h3>
+<div class="misc-backend" align="center">
  <img align="left" src="./assets/icons/redis.png" height="40" width="40" />
  <img align="left" src="./assets/icons/kafka.png" height="40" width="40" />
  <img align="left" src="./assets/icons/meilisearch.png" height="40" width="40" />
  <img align="left" src="./assets/icons/graphql.png" height="40" width="40" />
 </div>
-<br>
-
-#### Tools:
-
+</td>
+<td width="50%">
+<h3 align="left">Database:</h3>
 <div class="tools" align="center">
  <img align="left" src="./assets/icons/terminal.png" height="40" width="40" />
  <img align="left" src="./assets/icons/git.png" height="40" width="40" />
  <img align="left" src="./assets/icons/docker.png" height="40" width="40" />
  <img align="left" src="./assets/icons/kubernetes.png" height="40" width="40" />
 </div>
-<br>
-<br>
+</td>
+</tr>                                                               
+</table> 
 
 ### Open-source contributions
 <div align="left">

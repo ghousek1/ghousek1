@@ -12,11 +12,11 @@
 
 <div align="center">
  
-[<img align="left" src="./assets/icons/website.png" height="35" width="35" />][website]
-[<img align="left" src="./assets/icons/email.png" height="35" width="35" />][email] 
-[<img align="left" src="./assets/icons/linkedin.png" height="35" width="35" />][linkedin] 
-[<img align="left" src="./assets/icons/twitter.png" height="35" width="35" />][twitter]
-[<img align="left" src="./assets/icons/devto.png" height="35" width="35" />][devto]
+[<img align="left" src="./assets/icons/website.png" height="40" width="40" />][website]
+[<img align="left" src="./assets/icons/email.png" height="40" width="40" />][email] 
+[<img align="left" src="./assets/icons/linkedin.png" height="40" width="40" />][linkedin] 
+[<img align="left" src="./assets/icons/twitter.png" height="40" width="40" />][twitter]
+[<img align="left" src="./assets/icons/devto.png" height="40" width="40" />][devto]
 
 </div>
 
@@ -29,8 +29,8 @@
 
 <div class="languages" align="center">
 
- <img align="left" src="./assets/icons/java.png" height="35" width="35" />
- <img align="left" src="./assets/icons/golang.png" height="35" width="35" />
+ <img align="left" src="./assets/icons/java.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/golang.png" height="40" width="40" />
 
 </div>
 <br>
@@ -38,61 +38,62 @@
 ##### Backend:
 
 <div class="backend" align="center">
-<img align="left" src="./assets/icons/spring.png" height="35" width="35" />
-<img align="left" src="./assets/icons/go-fiber.png" height="35" width="35" />
+<img align="left" src="./assets/icons/spring.png" height="40" width="40" />
+<img align="left" src="./assets/icons/go-fiber.png" height="40" width="40" />
 </div>
 <br>
 
 ##### Frontend:
 
 <div class="frontend" align="center">
- <img align="left" src="./assets/icons/html.png" height="35" width="35" />
- <img align="left" src="./assets/icons/css.png" height="35" width="35" />
- <img align="left" src="./assets/icons/javascript.png" height="35" width="35" />
- <img align="left" src="./assets/icons/reactjs.png" height="35" width="35" />
+ <img align="left" src="./assets/icons/html.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/css.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/javascript.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/reactjs.png" height="40" width="40" />
 </div>
 <br>
 
 ##### Database:
 
 <div class="database" align="center">
- <img align="left" src="./assets/icons/postgresql.png" height="35" width="35" />
- <img align="left" src="./assets/icons/mongodb.png" height="35" width="35" />
+ <img align="left" src="./assets/icons/postgresql.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/mongodb.png" height="40" width="40" />
 </div>
 <br>
 
 ##### Misc Backend:
 
 <div class="misc" align="center">
- <img align="left" src="./assets/icons/redis.png" height="35" width="35" />
- <img align="left" src="./assets/icons/kafka.png" height="35" width="35" />
- <img align="left" src="./assets/icons/meilisearch.png" height="35" width="35" />
- <img align="left" src="./assets/icons/graphql.png" height="35" width="35" />
+ <img align="left" src="./assets/icons/redis.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/kafka.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/meilisearch.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/graphql.png" height="40" width="40" />
 </div>
 <br>
 
 #### Tools:
 
 <div class="tools" align="center">
- <img align="left" src="./assets/icons/terminal.png" height="35" width="35" />
- <img align="left" src="./assets/icons/git.png" height="35" width="35" />
- <img align="left" src="./assets/icons/docker.png" height="35" width="35" />
- <img align="left" src="./assets/icons/kubernetes.png" height="35" width="35" />
+ <img align="left" src="./assets/icons/terminal.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/git.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/docker.png" height="40" width="40" />
+ <img align="left" src="./assets/icons/kubernetes.png" height="40" width="40" />
 </div>
 <br>
 <br>
 
 ### Open-source contributions
 
-<br>
-<br>
+Code contributed to melisearch(alt to elastic search)
+ [<img align="left" src="./assets/icons/meilisearch.png" height="60" width="60" />][meilisearch]
 <br>
 <br>
 
 ### Personal Projects
-
-<br>
-<br>
+Secundus brain
+ [<img align="left" src="./assets/icons/github.png" height="60" width="60" />][secundusbrain]
+Social Raven
+ [<img align="left" src="./assets/icons/github.png" height="60" width="60" />][socialraven]
 <br>
 <br>
 
@@ -115,3 +116,6 @@
 [devto]: https://dev.to/ghousek1
 [github]: https://github.com/ghousek1?tab=repositories
 [gitprojects]: https://github.com/ghousek1?tab=repositories
+[meilisearch]: https://github.com/meilisearch/meilisearch-java
+[secundusbrain]: https://github.com/ghousek1/secundusbrain
+[socialraven]: https://github.com/ghousek1/socialraven

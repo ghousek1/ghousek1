@@ -9,16 +9,28 @@
 - ⚡ Fun fact: I love to cook and play video games
 
 ### Connect with me:
-
-<div align="center">
- 
-[<img align="left" src="./assets/icons/website.png" style=" height:3rem; width:3rem;" />][website]
-[<img align="left" src="./assets/icons/email.png" style=" height:3rem; width:3rem;" />][email] 
-[<img align="left" src="./assets/icons/linkedin.png" style=" height:3rem; width:3rem;" />][linkedin] 
-[<img align="left" src="./assets/icons/twitter.png" style=" height:3rem; width:3rem;" />][twitter]
-[<img align="left" src="./assets/icons/devto.png" style=" height:3rem; width:3rem;" />][devto]
-
-</div>
+<div align="left">
+<table>
+<tr>
+<td >
+<a href="https://ghousek1.com" target="_blank">
+ <img src="./assets/icons/website.png" style=" height:3rem; width:3rem;">
+</a>
+<a href="mailto:ghousek1@outlook.com" target="_blank">
+ <img src="./assets/icons/email.png" style=" height:3rem; width:3rem;">
+</a>
+<a href="https://linkedin.com/in/ghousek1" target="_blank">
+ <img src="./assets/icons/linkedin.png" style=" height:3rem; width:3rem;">
+</a>
+<a href="https://twitter.com/ghousek1ofcl" target="_blank">
+ <img src="./assets/icons/twitter.png" style=" height:3rem; width:3rem;">
+</a>
+<a href="https://dev.to/ghousek1" target="_blank">
+ <img src="./assets/icons/devto.png" style=" height:3rem; width:3rem;">
+</a>
+</td>
+</tr>                                                                
+</table> 
 
 <br>
 <br>
@@ -28,14 +40,14 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="left">Languages: </h3>
+<h4 align="left">Languages: </h4>
 <div class="languages" align="left">
  <img  src="./assets/icons/java.png" style=" height:3rem; width:3rem;" />
  <img  src="./assets/icons/golang.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
-<h3 align="left">Backend: </h3>
+<h4 align="left">Backend: </h4>
 <div class="backend" align="left">
 <img src="./assets/icons/spring.png" style=" height:3rem; width:3rem;" />
 <img src="./assets/icons/go-fiber.png" style=" height:3rem; width:4rem;" />
@@ -44,7 +56,7 @@
 </tr> 
 <tr>
 <td width="50%">
-<h3 align="left">Frontend: </h3>
+<h4 align="left">Frontend: </h4>
 <div class="frontend" align="left">
  <img src="./assets/icons/html.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/css.png" style=" height:3rem; width:3rem;" />
@@ -53,7 +65,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="left">Database:</h3>
+<h4 align="left">Database:</h4>
 <div class="database" align="left">
  <img src="./assets/icons/postgresql.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/mongodb.png" style=" height:3rem; width:3rem;" />
@@ -62,7 +74,7 @@
 </tr>  
 <tr>
 <td width="50%">
-<h3 align="left">Frontend: </h3>
+<h4 align="left">Misc Backend : </h4>
 <div class="misc-backend" align="left">
  <img src="./assets/icons/redis.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/kafka.png" style=" height:3rem; width:3rem;" />
@@ -71,8 +83,8 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="left">Database:</h3>
-<div class="tools" align="left">
+<h4 align="left">Tools:</h4>
+<div class="misc-tools" align="left">
  <img src="./assets/icons/terminal.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/git.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/docker.png" style=" height:3rem; width:3rem;" />

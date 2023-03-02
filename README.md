@@ -83,19 +83,75 @@
 <br>
 
 ### Open-source contributions
+<div align="left">
+<table>
+<tr>
+<td width="33%">
+<h3 align="left">meilisearch-java</h3>
+<div align="left">
+<p> Code contributions in meilisearch </p>
+<a href="https://github.com/meilisearch/meilisearch-java" target="_blank">
+<img src="./assets/icons/meilisearch.png" width="150"></a>
+<p>
+</p>
+</div>
+</td>
+
+</tr>                                                                
+</table> 
 
 <br>
 <br>
 
-### Personal Projects
+### Featured Personal Projects
+<div align="left">
+<table>
+<tr>
+<td width="33%">
+<h3 align="left">Secundus Brain</h3>
+<div align="left">
+<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<img src="./assets/icons/github.png" width="150"></a>
+<p>
+<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p>
+<p><strong>Java,React, Kafka, Meilisearch</strong> - App that acts as your second brain</p>
+</div>
+</td>
+
+
+<td width="33%">                                                                                     
+<h3 align="left">Social raven</h3>
+<div align="left">
+<a href="https://github.com/ghousek1/secundusbrain" target="_blank"><img src="./assets/icons/github.png" width="150" ></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"">
+</a>
+<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p>
+<p><strong>Java,React Kafka</strong> Social media management tool.</p>
+</div>
+</td>
+</tr>                                                                
+</table>   
 
 <br>
 <br>
 
 ### Github Stats
 
- <div id="stats" width="100%" style="display: flex; align:center;">
-  <div width="100%" align="center" style="flex: 1;">
+ <div id="stats" width="100%" style="display: flex; align:left;">
+  <div width="100%" align="left" style="flex: 1;">
    
    [<img src="https://github-readme-stats.vercel.app/api?username=ghousek1&theme=highcontrast&show_icons=true&hide_border=true">][github]
    
@@ -114,3 +170,5 @@
 [meilisearch]: https://github.com/meilisearch/meilisearch-java
 [secundusbrain]: https://github.com/ghousek1/secundusbrain
 [socialraven]: https://github.com/ghousek1/socialraven
+                                                                              
+</div>                                                                                    

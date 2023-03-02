@@ -83,28 +83,12 @@
 <br>
 
 ### Open-source contributions
-<div class="opensource-contributions" width="100%" style="display: flex; align:left;">
- <div class="meilisearch-contributions" width="100%" style="flex: 1;">
-  Code contributed to melisearch(alt to elastic search)
-  [<img style="display:block;" src="./assets/icons/meilisearch.png" height="60" width="60"/>][meilisearch]
- </div>
-</div>
+
 <br>
 <br>
 
 ### Personal Projects
 
-<div class="personal-projects" width="100%" style="display: flex; align:left;">
-    <!-- <div width="100%" align="center" style="flex: 1;"> -->
-    <div class="secundusbrain" align="left" style="flex: 1;">
-     Secundus brain
-     [<img align="left" src="./assets/icons/github.png" height="60" width="60" />][secundusbrain]
-    </div>
-    <div class="secundusbrain" align="left" style="flex: 1;">
-     Social Raven
-     [<img align="left" src="./assets/icons/github.png" height="60" width="60" />][socialraven]
-    </div>
-  </div>
 <br>
 <br>
 

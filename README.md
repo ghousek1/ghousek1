@@ -91,7 +91,7 @@
 <div align="left">
 <p> Code contributions in meilisearch </p>
 <a href="https://github.com/meilisearch/meilisearch-java" target="_blank">
-<img src="./assets/icons/meilisearch.png" width="150"></a>
+<img src="./assets/icons/meilisearch.png" style="width: 7rem;"></a>
 <p>
 </p>
 </div>
@@ -111,7 +111,7 @@
 <h3 align="left">Secundus Brain</h3>
 <div align="left">
 <a href="https://github.com/ghousek1/secundusbrain" target="_blank">
-<img src="./assets/icons/github.png" width="150"></a>
+<img src="./assets/icons/github.png" style="width: 7rem;"></a>
 <p>
 <a href="https://github.com/ghousek1/secundusbrain" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -120,7 +120,8 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
 </a>
 </p>
-<p><strong>Java,React, Kafka, Meilisearch</strong> - App that acts as your second brain</p>
+<p><strong>App that acts as your second brain</strong></p>
+<p>Java,React, Kafka, Meilisearch</p>
 </div>
 </td>
 
@@ -128,7 +129,7 @@
 <td width="33%">                                                                                     
 <h3 align="left">Social raven</h3>
 <div align="left">
-<a href="https://github.com/ghousek1/secundusbrain" target="_blank"><img src="./assets/icons/github.png" width="150" ></a>
+<a href="https://github.com/ghousek1/secundusbrain" target="_blank"><img src="./assets/icons/github.png" style="width: 7rem;"></a>
 <br>
 <br>
 <p>
@@ -139,7 +140,8 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
 </a>
 </p>
-<p><strong>Java,React Kafka</strong> Social media management tool.</p>
+<p><strong>Social media analytics & management tool</strong> </p>
+<p>Java,React Kafka</p>
 </div>
 </td>
 </tr>                                                                

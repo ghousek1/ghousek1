@@ -32,22 +32,19 @@
 </tr>                                                                
 </table> 
 
-<br>
-<br>
-
 ### Skills
-<div align="left" style="">
+<div align="left">
 <table>
 <tr>
 <td width="50%">
-<h4 align="left">Languages: </h4>
+<h4 align="left" style="padding-top: 0rem;" style="padding-top: 0rem;">Languages: </h4>
 <div class="languages" align="left">
  <img  src="./assets/icons/java.png" style=" height:3rem; width:3rem;" />
  <img  src="./assets/icons/golang.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
-<h4 align="left">Backend: </h4>
+<h4 align="left" style="padding-top: 0rem;">Backend: </h4>
 <div class="backend" align="left">
 <img src="./assets/icons/spring.png" style=" height:3rem; width:3rem;" />
 <img src="./assets/icons/go-fiber.png" style=" height:3rem; width:4rem;" />
@@ -56,7 +53,7 @@
 </tr> 
 <tr>
 <td width="50%">
-<h4 align="left">Frontend: </h4>
+<h4 align="left" style="padding-top: 0rem;">Frontend: </h4>
 <div class="frontend" align="left">
  <img src="./assets/icons/html.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/css.png" style=" height:3rem; width:3rem;" />
@@ -65,7 +62,7 @@
 </div>
 </td>
 <td width="50%">
-<h4 align="left">Database:</h4>
+<h4 align="left" style="padding-top: 0rem;">Database:</h4>
 <div class="database" align="left">
  <img src="./assets/icons/postgresql.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/mongodb.png" style=" height:3rem; width:3rem;" />
@@ -74,7 +71,7 @@
 </tr>  
 <tr>
 <td width="50%">
-<h4 align="left">Misc Backend : </h4>
+<h4 align="left" style="padding-top: 0rem;">Misc Backend : </h4>
 <div class="misc-backend" align="left">
  <img src="./assets/icons/redis.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/kafka.png" style=" height:3rem; width:3rem;" />
@@ -83,7 +80,7 @@
 </div>
 </td>
 <td width="50%">
-<h4 align="left">Tools:</h4>
+<h4 align="left" style="padding-top: 0rem;">Tools:</h4>
 <div class="misc-tools" align="left">
  <img src="./assets/icons/terminal.png" style=" height:3rem; width:3rem;" />
  <img src="./assets/icons/git.png" style=" height:3rem; width:3rem;" />
@@ -112,9 +109,6 @@
 </tr>                                                                
 </table> 
 
-<br>
-<br>
-
 ### Featured Personal Projects
 <div align="left">
 <table>
@@ -142,8 +136,6 @@
 <h3 align="left">Social raven</h3>
 <div align="left">
 <a href="https://github.com/ghousek1/secundusbrain" target="_blank"><img src="./assets/icons/github.png" style="width: 7rem;"></a>
-<br>
-<br>
 <p>
 <a href="https://github.com/ghousek1/secundusbrain" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"">
@@ -158,9 +150,6 @@
 </td>
 </tr>                                                                
 </table>   
-
-<br>
-<br>
 
 ### Github Stats
 

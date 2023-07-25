@@ -114,7 +114,7 @@
 <table>
 <tr>
 <td width="33%">
-<h3 align="left">Secundus Brain</h3>
+<h3 align="left">Memoirist</h3>
 <div align="left">
 <a href="https://github.com/ghousek1/memoirist" target="_blank">
 <img src="./assets/icons/github.png" style="width: 7rem;"></a>
@@ -126,7 +126,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
 </a>
 </p>
-<p><strong>App that acts as your second brain</strong></p>
+<p><strong> Day logging tool</strong></p>
 <p>Java,React, Kafka, Meilisearch</p>
 </div>
 </td>

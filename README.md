@@ -116,13 +116,13 @@
 <td width="33%">
 <h3 align="left">Secundus Brain</h3>
 <div align="left">
-<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<a href="https://github.com/ghousek1/memoirist" target="_blank">
 <img src="./assets/icons/github.png" style="width: 7rem;"></a>
 <p>
-<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<a href="https://github.com/ghousek1/memoirist" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<a href="https://github.com/ghousek1/memoirist" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
 </a>
 </p>
@@ -133,19 +133,19 @@
 
 
 <td width="33%">                                                                                     
-<h3 align="left">Social raven</h3>
+<h3 align="left">Viscody</h3>
 <div align="left">
-<a href="https://github.com/ghousek1/secundusbrain" target="_blank"><img src="./assets/icons/github.png" style="width: 7rem;"></a>
+<a href="https://github.com/ghousek1/viscody" target="_blank"><img src="./assets/icons/github.png" style="width: 7rem;"></a>
 <p>
-<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<a href="https://github.com/ghousek1/viscody" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"">
 </a>
-<a href="https://github.com/ghousek1/secundusbrain" target="_blank">
+<a href="https://github.com/ghousek1/viscody" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
 </a>
 </p>
-<p><strong>Social media analytics & management tool</strong> </p>
-<p>Java,React Kafka</p>
+<p><strong>Data visualization tool</strong> </p>
+<p>React Tailwind</p>
 </div>
 </td>
 </tr>                                                                
